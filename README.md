@@ -11,3 +11,7 @@
 2. In custom CSS tab, use this code: `#container {background: transparent}`
 ## TODO List
 - [ ] Update UI
+	- [ ] Add possibility to change style
+	- [ ] Better button style
+	- [ ] New icon
+- [ ] New visualizers
