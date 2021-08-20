@@ -1,6 +1,6 @@
 # Online Music Visualizer
 ### Version[Beta] 0.1
-### Build Status: Passing
+### [![Build status](https://ci.appveyor.com/api/projects/status/v5a5bca5513mkjb5/branch/main?svg=true)](https://ci.appveyor.com/project/lipe993/online-music-vis/branch/main)
 ![Test Image](image.png)
 ## Table of Contents
 - [How to add it to OBS](#how-to-add-it-to-obs)
