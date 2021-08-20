@@ -7,9 +7,6 @@
 
 ## How to add it to OBS
 1. Add the navegator and link it
-2. In custom CSS tab, use this code: ```css 
-#container {
-	background: transparent
-}```
+2. In custom CSS tab, use this code: `#container {background: transparent}`
 ## TODO List
 
